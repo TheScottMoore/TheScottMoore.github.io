@@ -20,4 +20,4 @@ Created Unstructered MongoDB Database, then converted and migrated to SQLite to 
 
 ### 🔹Integrated Artifact
 Integrated all the enhancements into one cohesive, full-stack, and fully functional web application
-[View Enhancement](integrated-artifact.html)
+[View Enhancement](integrated.html)
