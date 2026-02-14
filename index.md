@@ -6,6 +6,8 @@ Welcome to my CS-499 Capstone Portfolio.
 
 ## Artifacts
 
+{% include nav.html %}
+
 ### 🔹 Software Engineering Enhancement
 Improved system architecture, modularity, and security while converting programming from Python to C++
 [View Enhancement](software-engineering.html)
