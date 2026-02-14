@@ -6,11 +6,14 @@ Welcome to my CS-499 Capstone Portfolio.
 
 ## Artifacts
 
-### Software Design and Engineering
+### 🔹 Software Engineering Enhancement
+Improved system architecture, modularity, and security while converting programming from Python to C++
 [View Enhancement](software-engineering.html)
 
-### Algorithms and Data Structures
+### 🔹 Algorithms & Data Structures Enhancement
+Optimized data retrieval and improved efficiency through hash tables and binary search algorithms
 [View Enhancement](algorithms.html)
 
-### Databases
+### 🔹 Database Enhancement
+Created Unstructered MongoDB Database, then converted and migrated to SQLite to improve structure and query performance
 [View Enhancement](databases.html)
