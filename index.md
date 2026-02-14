@@ -1,7 +1,6 @@
 {% include nav.html %}
 
-Bachelor of Science in Computer Science  
-Welcome to my CS-499 Capstone Portfolio.
+Bachelor of Science in Computer Science Capstone Portfolio 
 
 ## Professional Self-Assessment
 
