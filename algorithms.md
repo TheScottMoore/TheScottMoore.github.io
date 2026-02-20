@@ -42,5 +42,31 @@ and controlled rebuild logic. Previously, I had only encountered caching at skin
 Working through it here and actually succeeding in getting it to work, makes me 
 feel far more comfortable optimizing in C++.
 
+This artifact enhancement meets the "Design and evaluate computing solutions" as it
+successfully implemented algorithms, data structures, and cache management to 
+optimize the original artifact. By doing this, the application no longer just 
+queries the database, but uses hash indexing and binary search, which were deemed
+to be the most appropriate tools to enhance this artifact.
+
+This artifact enhancement also meets the "Demonstrate an ability to use well-founded
+and innovative techniques, skills, and tools in computing practices" outcome because
+I had to implement the MongoDB C++ driver and configure CMake, which led to the need
+to debug many a compiler issue to get it to run. The open-ended nature of this assignment
+required the falling back on learned best practices and researching new tools.
+
+I would say this enhancement doesn't really work with the "Design, develop, and deliver 
+professional-quality oral, written, and visual communications" outcome by itself, because
+beside its in-line notations, doesn't really communicate much to an audience. 
+
+The enhancement was designed be used with the original dashboard and database, it
+does meet "Employ strategies for building collaborative environments." While this artifact 
+is not inherently collaborative, preserving compatibility with the original dashboard 
+allows it to integrate into shared systems and workflows. By preserving compatibility, the 
+work here is useful to anyone familiar with the original application.
+
+Lastly, this enhancement alone doesn't fully address the security mindset outcome. Even 
+though I changed the application from using the hard-coded credentials like the original 
+used, I did not focus on utilizing too many of the secure-coding best practices.
+
 
 
