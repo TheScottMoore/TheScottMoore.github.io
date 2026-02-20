@@ -26,18 +26,21 @@ resources to accomplish the task. Not only was time complexity optimization enha
 through sorting algorithms, but with cache management was also demonstrated throughout.
 
 
-##Reflection
+## Reflection
 Most of the time spent on this artifact, or rather, this portion of the artifact, was
 reviewing old coursework materials from CS-300 "Data Structure and Algorithms." 
 Many of the enhancements I wished to add were from this course, but I had to 
 thoroughly reexamine what I had done then and how I could apply it to optimize 
 this web application. 
 
-One area that became more complex than expected was cache management. Initially, I 
-focused only on improving lookup speed using unordered_map and a sorted vector with
-binary search. However, I quickly realized that adding caching introduces new 
-responsibilities: ensuring data consistency, handling invalidation, and preventing 
-stale reads. This led me into a deeper exploration of how to manage cache state
-in C++, including the use of shared mutexes and controlled rebuild logic. Previously, I had 
-only encountered caching at a surface level. Working through it here gave me a much clearer 
-understanding of how it can assist in performance optimizations.
+One paticular area that became complex was cache management. Initially, I 
+focused only on improving lookup speed using a sorted vector with binary search. 
+However, I learned that adding caching introduces new abilities such as ensuring data 
+consistency, handling invalidation, and preventing stale reads. This led me into a 
+rabbit hole of how to manage cache state in C++, including the use of shared mutexes
+and controlled rebuild logic. Previously, I had only encountered caching at skin level. 
+Working through it here and actually succeeding in getting it to work, makes me 
+feel far more comfortable optimizing in C++.
+
+
+
