@@ -17,7 +17,3 @@ Optimized data retrieval and improved efficiency through hash tables and binary 
 ### 🔹 Database Enhancement
 Created Unstructered MongoDB Database, then converted and migrated to SQLite to improve structure and query performance
 [View Enhancement](databases.html)
-
-### 🔹Integrated Artifact
-Integrated all the enhancements into one cohesive, full-stack, and fully functional web application
-[View Enhancement](integrated.html)
