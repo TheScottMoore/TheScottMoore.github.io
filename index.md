@@ -8,7 +8,9 @@ title: Home
 
 ## Professional Self-Assessment
 
-**Professional Growth and Technical Development**
+###Professional Growth and Technical Development
+
+
   Completing my Bachelor of Science in Computer Science has had an enormous impact on my outlook for my future, as it has not only developed many very specialized skills, but also altered my original outsider view of what the field of computer science looks like. I began the program with minimal formal software development experience and only a hobbyist’s experience in coding at all. I went from that so long ago, struggling to create basic decision trees in Python, to clearly designing out large, full-stack web applications. The artifacts in my ePortfolio represent the most advanced work I have completed to date, but highlight my ability to create a blueprint, individually create the large parts of a software solution, and ultimately integrate them. 
   Outside of my artifacts, my course work taught me foundations in graphic generation, software reverse engineering, and how to work with several programming languages, including Python, Java, Assembly, and C++. As my artifacts hint to, I have a strong focus on developing in C-family languages, which, through my coursework at SNHU, I have decided to favor. 
   One notable accomplishment in a course was the publishing of my final project, a weight tracking app, on Android’s marketplace for CS 360 – Mobile Architect and Programming.
