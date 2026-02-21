@@ -2,7 +2,7 @@
 title: Algorithms and Data Structures
 ---
 
-{% include nav.html %}
+
 
 # Algorithms and Data Structures Enhancement
 
