@@ -4,7 +4,7 @@ title: Home
 
 {% include nav.html %}
 
-# Bachelor of Science in Computer Science Capstone Portfolio
+**Bachelor of Science in Computer Science Capstone Portfolio**
 
 ## Professional Self-Assessment
 (put your content here)
