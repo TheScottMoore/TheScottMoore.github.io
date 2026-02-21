@@ -4,7 +4,7 @@ title: Algorithms and Data Structures
 
 {% include nav.html %}
 
-# Algorithms Enhancement
+# Algorithms and Data Structures Enhancement
 
 ## Overview
 This artifact was originally developed for CS-340: Client/Server Development. 
