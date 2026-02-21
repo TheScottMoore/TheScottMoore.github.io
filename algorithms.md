@@ -68,5 +68,7 @@ Lastly, this enhancement alone doesn't fully address the security mindset outcom
 though I changed the application from using the hard-coded credentials like the original 
 used, I did not focus on utilizing too many of the secure-coding best practices.
 
+<img width="1260" height="298" alt="image" src="https://github.com/user-attachments/assets/137ff2b3-55ca-4703-96b4-032916d9933f" />
+
 
 
