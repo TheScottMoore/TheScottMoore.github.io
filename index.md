@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Scott Moore's Computer Science ePortfolio
 ---
 
 {% include nav.html %}
