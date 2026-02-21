@@ -36,13 +36,13 @@ UPDATED CRUD operations:
 <img width="846" height="458" alt="Screenshot 2026-02-21 105259" src="https://github.com/user-attachments/assets/007c2555-653d-4272-8e3c-a34adc4ff290" />
 <img width="852" height="307" alt="Screenshot 2026-02-21 105313" src="https://github.com/user-attachments/assets/6719f704-8f7c-44bd-bf8e-c20c76ba4a83" />
 
-Example or Error Throwing (For Empty Filter)
+Example or Error Throwing (For Empty Filter Runtime Error)
 
 <img width="787" height="52" alt="image" src="https://github.com/user-attachments/assets/bd7ab74f-9c5f-4946-96e6-27012313d00a" />
 
 
 ## Performance Enhancement
-
+Simply by converting this from an interpreted language, such as Python, into a compiled language, such as C++, increases the application's efficiency as C++ directly executes into machine code. This eliminates the computational overhead of running an interpreter. Also, by introducing error/exception handling, problems are mitigated correctly, reducing the risk of exploitation from DoS attacks, and by validating input. Lastly, the secondary aim of this improvement was to allow for further optimization via the next two enhancements, as C++ guarantees more controls that I would use alongside my sorting/querying algorithms to truly optimize the full-stack application.
 
 ## Source Code Repository
 The full source code, including the original implementation and the enhanced version with indexing and binary search optimizations, can be viewed here:
