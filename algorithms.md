@@ -71,6 +71,7 @@ used, I did not focus on utilizing too many of the secure-coding best practices.
 ## Screenshots
 
 Successfully compiles and executes using hash indexing and binary search range query
+The hash index returns 5 dogs that match and the binary search returns 4 dogs that match fit range
 <img width="481" height="229" alt="image" src="https://github.com/user-attachments/assets/a7e35d79-a292-478e-951d-fc423044311c" />
 
 Successfully uses MultiMap to utilize hash-based indexing
@@ -79,6 +80,9 @@ Successfully uses MultiMap to utilize hash-based indexing
 
 Successfully uses binary search using search range in sorted vector
 <img width="789" height="380" alt="image" src="https://github.com/user-attachments/assets/56e58eb7-1097-4c2c-a78a-2200bbb74518" />
+
+Successfully sorts vector for the binary search range
+<img width="780" height="115" alt="image" src="https://github.com/user-attachments/assets/686d016a-4c62-4666-ae01-3763089d4894" />
 
 
 
