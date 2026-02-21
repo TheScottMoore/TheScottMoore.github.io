@@ -1,19 +1,24 @@
+---
+title: Home
+---
+
 {% include nav.html %}
 
-**Bachelor of Science in Computer Science Capstone Portfolio**
+# Bachelor of Science in Computer Science Capstone Portfolio
 
 ## Professional Self-Assessment
+(put your content here)
 
 ## Artifacts
 
 ### 🔹 Software Engineering Enhancement
-Improved system architecture, modularity, and security while converting programming from Python to C++
+Improved system architecture, modularity, and security while converting programming from Python to C++  
 [View Enhancement](software-engineering.html)
 
 ### 🔹 Algorithms & Data Structures Enhancement
-Optimized data retrieval and improved efficiency through hash tables and binary search algorithms
+Optimized data retrieval and improved efficiency through hash tables and binary search algorithms  
 [View Enhancement](algorithms.html)
 
 ### 🔹 Database Enhancement
-Created Unstructered MongoDB Database, then converted and migrated to SQLite to improve structure and query performance
+Created unstructured MongoDB database, then migrated to SQLite to improve structure and query performance  
 [View Enhancement](databases.html)
