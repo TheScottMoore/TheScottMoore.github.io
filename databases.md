@@ -19,7 +19,7 @@ This enhancement took purposeful steps to fulfill the "Employ strategies for bui
 
 Although the database enhancement itself does not demonstrate much of the "Design, develop, and deliver professional-quality oral, written, and visual communications" outcome, the written narratives, such as this one, are aimed at clearly communicating what was done to enhance the artifact.
 
-The "Design and evaluate computing solutions that solve a given problem" outcome was met within this database category by projection data transfer, implementing reusable helper functions, and preserving the compatibility with the original dashboard. The decision to take advantage of the MongoDB C++ driver and continue to use a new C++ module data access layer followed best practices for database access and functions rather than relying on raw database queries. 
+The "Design and evaluate computing solutions that solve a given problem" outcome was met within this database category by projection data transfer, implementing reusable helper functions, and preserving compatibility with the original dashboard. The decision to take advantage of the MongoDB C++ driver and continue to use a new C++ module data access layer followed best practices for database access and functions rather than relying on raw database queries. 
 
 Much like the last outcome, the outcome of: "Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions," was demonstrated by the decisions on how to execute my goal of converting the database while still maintaining compatibility with the front-end dash system. I used the MongoDB C++ driver, created a Python script for migration, and ensured my query builders were properly encapsulated to perserve a fully functional full-stack application that still operated the some from the end-users perspective.
 
@@ -37,7 +37,7 @@ Screenshot of the dashboard system after the database change
 
 
 ## Performance Enhancement
-
+This enhancement was primarily about converting a non-schema database into a schema database. The benefits of this are that it ensures complete and uniform data, simplifying maintainability and query optimization. Another thing to note is that the SQLite database significantly reduces the number of dependencies compared to MongoDB which simplifies portability and reduces complexity as well as eliminates the need for external servers so that local deployments are much simpler. Admittedly, this enhancement would not be ideal for an application that aims to optimize for cloud-based and distributed systems, in which the original MongoDB database structure would actually be the better choice.
 
 ## Source Code Repository
 The full source code, including the original implementation and the enhanced version with indexing and binary search optimizations, can be viewed here:
