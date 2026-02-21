@@ -93,7 +93,8 @@ and afte the binary search range is implemented, the total average complexity en
 returned. 
 
 Shifting computational cost using data structures from the C++ Standard Template Library greatly improves performance and ultimately
-scalability. It is a great demonstration of my ability to implement optimization algorithms and data structures.
+scalability. It is a great demonstration of my ability to implement optimization algorithms and data structures, not to mention my
+newfound proficiency in cache management.
 
 
 
