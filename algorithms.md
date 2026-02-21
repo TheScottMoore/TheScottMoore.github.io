@@ -96,6 +96,12 @@ Shifting computational cost using data structures from the C++ Standard Template
 scalability. It is a great demonstration of my ability to implement optimization algorithms and data structures, not to mention my
 newfound proficiency in cache management.
 
+## Source Code Repository
 
+The full source code, including the original implementation 
+and the enhanced version with indexing and binary search 
+optimizations, can be viewed here:
+
+[View Algorithms Enhancement Repository](https://github.com/TheScottMoore/CS499-Algorithms-Enhancement)
 
 
