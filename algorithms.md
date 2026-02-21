@@ -68,9 +68,9 @@ Lastly, this enhancement alone doesn't fully address the security mindset outcom
 though I changed the application from using the hard-coded credentials like the original 
 used, I did not focus on utilizing too many of the secure-coding best practices.
 
+Successfully compiles and executes using hash indexing and binary search range query
 <img width="481" height="229" alt="image" src="https://github.com/user-attachments/assets/a7e35d79-a292-478e-951d-fc423044311c" />
 
-Successfully compiles and executes using hash indexing and binary search range query
 
 
 
