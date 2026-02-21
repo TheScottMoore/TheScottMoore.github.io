@@ -69,7 +69,7 @@ though I changed the application from using the hard-coded credentials like the 
 used, I did not focus on utilizing too many of the secure-coding best practices.
 
 <img width="481" height="229" alt="image" src="https://github.com/user-attachments/assets/a7e35d79-a292-478e-951d-fc423044311c" />
-
+Successfully compiles and executes using hash indexing and binary search range query
 
 
 
