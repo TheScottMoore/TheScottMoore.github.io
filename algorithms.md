@@ -27,7 +27,7 @@ through sorting algorithms, but with cache management was also demonstrated thro
 
 
 ## Reflection
-Most of the time spent on this artifact, or rather, this portion of the artifact, was
+Most of the time spent on this artifact, or rather, this portion of the artifact,
 reviewing old coursework materials from CS-300 "Data Structure and Algorithms." 
 Many of the enhancements I wished to add were from this course, but I had to 
 thoroughly reexamine what I had done then and how I could apply it to optimize 
