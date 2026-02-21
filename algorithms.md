@@ -70,7 +70,7 @@ used, I did not focus on utilizing too many of the secure-coding best practices.
 
 ## Screenshots
 
-Successfully compiles and executes using hash indexing and binary search range query
+Successfully compiles and executes using hash indexing and binary search range query.
 The hash index returns 5 dogs that match and the binary search returns 4 dogs that match fit range
 <img width="481" height="229" alt="image" src="https://github.com/user-attachments/assets/a7e35d79-a292-478e-951d-fc423044311c" />
 
