@@ -73,6 +73,12 @@ used, I did not focus on utilizing too many of the secure-coding best practices.
 Successfully compiles and executes using hash indexing and binary search range query
 <img width="481" height="229" alt="image" src="https://github.com/user-attachments/assets/a7e35d79-a292-478e-951d-fc423044311c" />
 
+Successfully uses MultiMap to utilize hash-based indexing
+<img width="793" height="56" alt="image" src="https://github.com/user-attachments/assets/6fef396e-2faa-482b-8f7a-a2816d734b21" />
+<img width="782" height="95" alt="image" src="https://github.com/user-attachments/assets/15a982a8-173b-4d31-8921-64406acf6bb7" />
+
+
+
 
 
 
