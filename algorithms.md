@@ -77,6 +77,8 @@ Successfully uses MultiMap to utilize hash-based indexing
 <img width="793" height="56" alt="image" src="https://github.com/user-attachments/assets/6fef396e-2faa-482b-8f7a-a2816d734b21" />
 <img width="782" height="95" alt="image" src="https://github.com/user-attachments/assets/15a982a8-173b-4d31-8921-64406acf6bb7" />
 
+Successfully uses binary search using search range in sorted vector
+<img width="789" height="380" alt="image" src="https://github.com/user-attachments/assets/56e58eb7-1097-4c2c-a78a-2200bbb74518" />
 
 
 
