@@ -46,4 +46,4 @@ Shifting computational cost using data structures from the C++ Standard Template
 ## Source Code Repository
 The full source code, including the original implementation and the enhanced version with indexing and binary search optimizations, can be viewed here:
 
-[View Algorithms Enhancement Repository](https://github.com/TheScottMoore/CS499-Database-Enhancement)
+[View Database Enhancement Repository](https://github.com/TheScottMoore/CS499-Database-Enhancement)
