@@ -84,6 +84,16 @@ Successfully uses binary search using search range in sorted vector
 Successfully sorts vector for the binary search range
 <img width="780" height="115" alt="image" src="https://github.com/user-attachments/assets/686d016a-4c62-4666-ae01-3763089d4894" />
 
+## Performance Enhancement
+The screenshots show the core of how the enhancements were implemented. The indexing strategy reduces the average complexity for 
+queries to O(1) from O(n), which is a very significant improvement, especially as the application were to scale.
+
+The sorted vector and binary search combination reduces the complexity from O(n). The vector sorting algorithm executes at O(n log n)
+and afte the binary search range is implemented, the total average complexity ends at O(log n + k), where k is the number of results
+returned. 
+
+Shifting computational cost using data structures from the C++ Standard Template Library greatly improves performance and ultimately
+scalability. It is a great demonstration of my ability to implement optimization algorithms and data structures.
 
 
 
