@@ -26,20 +26,18 @@ Much like the last outcome, the outcome of: "Demonstrate an ability to use well-
 The "Develop a security mindset that anticipates adversarial exploits in software architecture and designs," outcome was met as I deliberately deployed strategies to prevent attacks such as SQL Injection and removed hard-coded credentials. The original hard-coded credentials were replaced by using an environment-based configuration, which reduces the risk of compromising the credentials if the source code was revealed, and I added input validation and proper error-handling to mitigate risks of SQL Injection attacks. Together, this application, though not entirely secure as possible, is still far more difficult to attack than the original application was.
 
 ## Screenshots
-Successfully compiles and executes using hash indexing and binary search range query. The hash index returns 5 dogs that match and the binary search returns 4 dogs that match fit range image
 
-Successfully uses MultiMap to utilize hash-based indexing image image
+Successful data migration to a new SQLite Database using a Python script
+<img width="802" height="109" alt="Screenshot 2026-02-07 145514" src="https://github.com/user-attachments/assets/173a2379-7499-41ad-b2a5-17327084c427" />
 
-Successfully uses binary search using search range in sorted vector image
 
-Successfully sorts vector for the binary search range image
+Screenshot of the dashboard system after the database change
+<img width="1264" height="890" alt="Screenshot 2026-02-07 171607" src="https://github.com/user-attachments/assets/16bf2577-8824-4a0b-84e6-8d9f64d4c97b" />
+
+
 
 ## Performance Enhancement
-The screenshots show the core of how the enhancements were implemented. The indexing strategy reduces the average complexity for queries to O(1) from O(n), which is a very significant improvement, especially as the application were to scale.
 
-The sorted vector and binary search combination reduces the complexity from O(n). The vector sorting algorithm executes at O(n log n) and afte the binary search range is implemented, the total average complexity ends at O(log n + k), where k is the number of results returned.
-
-Shifting computational cost using data structures from the C++ Standard Template Library greatly improves performance and ultimately scalability. It is a great demonstration of my ability to implement optimization algorithms and data structures, not to mention my newfound proficiency in cache management.
 
 ## Source Code Repository
 The full source code, including the original implementation and the enhanced version with indexing and binary search optimizations, can be viewed here:
