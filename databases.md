@@ -33,7 +33,8 @@ Successful data migration to a new SQLite Database using a Python script
 
 
 Screenshot of the dashboard system after the database change
-<img width="1264" height="890" alt="Screenshot 2026-02-07 171607" src="https://github.com/user-attachments/assets/16bf2577-8824-4a0b-84e6-8d9f64d4c97b" />
+<img width="1261" height="895" alt="image" src="https://github.com/user-attachments/assets/eaa36aff-76d0-4df2-84ad-f0f5dd27b1d9" />
+
 
 
 
