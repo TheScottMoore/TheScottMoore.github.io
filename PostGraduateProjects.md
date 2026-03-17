@@ -12,7 +12,7 @@ This is the first project I've taken on since my graduation, and it was meant to
 
 This is the initial screen of the app. It is very intuitive for the user to select their mood from the listed emoji faces, rate their energy level, and record their sleep.
 
-<img width="272" height="461" alt="image" src="https://github.com/user-attachments/assets/347cf22a-8d19-4f74-8937-2023d181504b" /> <br><br>
+<img width="272" height="461" alt="image" src="https://github.com/user-attachments/assets/347cf22a-8d19-4f74-8937-2023d181504b" /> <br><br><br><br>
 
 
 
