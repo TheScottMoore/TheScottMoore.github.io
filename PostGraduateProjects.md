@@ -12,14 +12,14 @@ This is the first project I've taken on since my graduation, and it was meant to
 
 This is the initial screen of the app. It is very intuitive for the user to select their mood from the listed emoji faces, rate their energy level, and record their sleep.
 
-<img width="272" height="461" alt="image" src="https://github.com/user-attachments/assets/347cf22a-8d19-4f74-8937-2023d181504b" /> <br><br><br><br>
+<img width="272" height="461" alt="image" src="https://github.com/user-attachments/assets/347cf22a-8d19-4f74-8937-2023d181504b" /> <br><br>
 
 
 
 
 This is simply the same screen, but scrolled down to show the optional journal note text entry box and the save entry and view history buttons.
 
-<img width="268" height="321" alt="image" src="https://github.com/user-attachments/assets/e07ba0b4-96c4-4cfb-9c41-af2eeaddf332" /> <br>
+<img width="268" height="321" alt="image" src="https://github.com/user-attachments/assets/e07ba0b4-96c4-4cfb-9c41-af2eeaddf332" /> <br><br>
 
 
 
