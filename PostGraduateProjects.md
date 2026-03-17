@@ -3,7 +3,7 @@
 
 # Post-Graduate Projects
 
-## Overview
+### Overview
 This page is meant to showcase the work I have completed in my own free time to create useful software for me and those close to me, practice software engineering skills, and experiment with new software tools. All the projects listed on this page are complete and executable, and I will include a link to the GitHub repository at the bottom.  
 
 ## Mood Tracking Mobile App
@@ -20,9 +20,10 @@ This is simply the same screen, but scrolled down to show the optional journal n
 
 This is the Mood History screen, where the user can view their recorded entries. In this screen, there are two sample entries. Also, towards the top of the screen, a summary of the entries from the last 60 days is shown. It records the number of each mood selection as well as the average energy level. 
 
+Project Summary: Mobile Application written in Kotlin, Offline database: Room(SQLite wrapper). _Created in Android Studio_
 
 
-## Source Code Repository
+### Source Code Repository
 
 The full source code, including the original implementation 
 and the enhanced version with indexing and binary search 
