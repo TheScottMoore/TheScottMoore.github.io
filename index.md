@@ -46,3 +46,8 @@ Optimized data retrieval and improved efficiency through hash tables and binary 
 ### 🔹 Database Enhancement
 Created unstructured MongoDB database, then migrated to SQLite to improve structure and query performance  
 [View Enhancement](databases.html)
+
+### 🔹 Post-Graduate Projects
+Software projects after the completion of my Bachelor's Degree Program  
+[View Enhancement](post-graduate.html)
+
