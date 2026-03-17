@@ -15,14 +15,19 @@ This is the initial screen of the app. It is very intuitive for the user to sele
 <img width="272" height="461" alt="image" src="https://github.com/user-attachments/assets/347cf22a-8d19-4f74-8937-2023d181504b" />
 
 
+
+
 This is simply the same screen, but scrolled down to show the optional journal note text entry box and the save entry and view history buttons.
 
 <img width="268" height="321" alt="image" src="https://github.com/user-attachments/assets/e07ba0b4-96c4-4cfb-9c41-af2eeaddf332" />
 
 
+
+
 This is the Mood History screen, where the user can view their recorded entries. In this screen, there are two sample entries. Also, towards the top of the screen, a summary of the entries from the last 60 days is shown. It records the number of each mood selection as well as the average energy level.
 
 <img width="270" height="463" alt="image" src="https://github.com/user-attachments/assets/3560eef7-39c0-4d7d-bd23-cbfbb4f9fd4b" />
+
 
 
 
