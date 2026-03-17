@@ -21,7 +21,7 @@ Here is the same screen, but scrolled down to show the optional journal note tex
 <img width="268" height="321" alt="image" src="https://github.com/user-attachments/assets/e07ba0b4-96c4-4cfb-9c41-af2eeaddf332" /> <br><br>
 
 
-Below, the View History Screen is where the user can view their recorded entries. In this screenshot, there are two sample entries. Also, towards the top of the screen, a summary of the entries from the last 60 days is shown. It records the number of each mood selection as well as the average energy level.
+Below, the View History Screen is where the user can view their recorded entries. In this screenshot, there are two sample entries. Also, towards the top of the screen, a summary of the entries from the last 60 days is shown. It records the number of each mood selection as well as the average energy level. To Delete an entry, the user simply does a long press.
 
 <img width="270" height="463" alt="image" src="https://github.com/user-attachments/assets/3560eef7-39c0-4d7d-bd23-cbfbb4f9fd4b" /> <br><br>
 
