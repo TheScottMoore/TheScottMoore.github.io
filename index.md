@@ -48,6 +48,6 @@ Created unstructured MongoDB database, then migrated to SQLite to improve struct
 [View Enhancement](databases.html)
 
 ### 🔹 Post-Graduate Projects
-Software projects after the completion of my Bachelor's Degree Program  
+A list of personal software projects I have created after the completion of my Bachelor's Degree Program
 [View Enhancement](PostGraduateProjects.html)
 
