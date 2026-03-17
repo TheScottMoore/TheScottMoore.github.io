@@ -3,8 +3,9 @@
 
 # Post-Graduate Projects
 
-### Overview
+## Overview
 This page is meant to showcase the work I have completed in my own free time to create useful software for me and those close to me, practice software engineering skills, and experiment with new software tools. All the projects listed on this page are complete and executable, and I will include a link to the GitHub repository at the bottom.  
+<br><br>
 
 ## Mood Tracking Mobile App
 This is the first project I've taken on since my graduation, and it was meant to create a simple and _ad-free_ app for someone close to me to track their mood and energy level for their quest for better mental health. I decided to use this as an opportunity to play with Kotlin, as my app development coursework was done in JavaScript, and I wanted to experiment with the other language. <br><br>
@@ -22,7 +23,7 @@ Here is the same screen, but scrolled down to show the optional journal note tex
 
 Below, the View History Screen is where the user can view their recorded entries. In this screenshot, there are two sample entries. Also, towards the top of the screen, a summary of the entries from the last 60 days is shown. It records the number of each mood selection as well as the average energy level.
 
-<img width="270" height="463" alt="image" src="https://github.com/user-attachments/assets/3560eef7-39c0-4d7d-bd23-cbfbb4f9fd4b" /><br><br>
+<img width="270" height="463" alt="image" src="https://github.com/user-attachments/assets/3560eef7-39c0-4d7d-bd23-cbfbb4f9fd4b" /> <br><br>
 
 
 
